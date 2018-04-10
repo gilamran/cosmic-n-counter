@@ -9,7 +9,7 @@ const projectRoot = path.join(__dirname, '..', '..');
 
 const plugins = [
   new HtmlWebpackPlugin({
-    title: 'TypeScript and React',
+    title: 'Cosmic-n-counter',
     favicon: 'favicon.ico',
     filename: 'index.html',
     template: 'index.ejs'
